@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  border-radius: 10px;
+  background-color: #f8f8ff;
+  padding: 10px;
+  margin-left: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 30px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+.name {
+  color: #e73959;
+}
+.stars-container {
+  display: flex;
+}
+.img {
+  width: 20px;
+  height: 18px;
+}
+.count {
+  margin-top: 0px;
+  color: #1e293b;
+  margin-left: 10px;
+}

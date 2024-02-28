@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.language-btn {
+  border: none;
+  border-radius: 12px;
+  background-color: transparent;
+  color: #0f172a;
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-right: 20px;
+  flex-shrink: 0;
+  cursor: pointer;
+  outline: none;
+  list-style-type: none;
+}
+.active {
+  color: #0284c7;
+  border-radius: 20px;
+  border: 1px solid #0284c7;
+}
+.list-item {
+  list-style-type: none;
+}
